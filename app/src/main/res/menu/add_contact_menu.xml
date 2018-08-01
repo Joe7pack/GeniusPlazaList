@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context=".EmployeeAddActivity">
+
+<item
+    android:id="@+id/action_add_contact"
+    android:orderInCategory="300"
+    android:title="User"
+    android:icon="@drawable/plus_arrow"
+    app:showAsAction="ifRoom">
+
+</item>
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pretty Smart List</string>
+    <string name="employee_detail">Contact Detail</string>
+    <string name="add_employee_detail">Add New Contact Detail</string>
+    <string name="employee_master">Contacts</string>
+    <string name="action">Favorite</string>
+    <color name="white">#FFFFFF</color>
+</resources>
